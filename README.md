@@ -42,4 +42,4 @@ Step 2.
 
 > Disconnect for example the sender after 2 messages has been received by the receiver
 
-> Connect the diconnect device again after 10 seconds, and shortly after all messages should have been received in the correct order.
+> Connect the diconnected device again after 10 seconds, and shortly after all messages should have been received in the correct order.
