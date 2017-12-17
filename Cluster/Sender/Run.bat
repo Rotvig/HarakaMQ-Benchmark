@@ -1,0 +1,1 @@
+dotnet HarakaMQ.Client.Test.dll 127.0.0.1 11300 8000 10000

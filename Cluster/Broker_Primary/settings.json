@@ -1,0 +1,18 @@
+{  
+   "BrokerPort":11100,
+   "PrimaryNumber":1,
+   "AntiEntropyMilliseonds":500,
+   "RunInCLusterSetup":true,
+   "Brokers":[  
+      {  
+         "PrimaryNumber":2,
+         "Ipadress":"127.0.0.1",
+         "Port":11200
+      },
+	  {  
+         "PrimaryNumber":3,
+         "Ipadress":"127.0.0.1",
+         "Port":11300
+      }
+   ]
+}

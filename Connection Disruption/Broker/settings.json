@@ -1,0 +1,7 @@
+{  
+   "BrokerPort":11100,
+   "PrimaryNumber":1,
+   "AntiEntropyMilliseonds":1000,
+   "RunInCLusterSetup":false,
+   "Brokers":[]
+}
