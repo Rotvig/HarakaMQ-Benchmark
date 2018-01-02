@@ -15,7 +15,7 @@ Step 2.
 
 > goto "ClientServer/Sender" and run "Run.bat"
 
-> All time obervations are stored at "Cluster/Receiver/results.txt"
+> All time obervations are stored at "ClientServerSetup/Receiver/results.txt"
 
 # To run the Cluster test on your local machine.
 
